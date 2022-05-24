@@ -1,0 +1,15 @@
+C:\Users\Vitor Silva\projetojogo\bin\Debug\net6.0\Vitor Silva.exe
+C:\Users\Vitor Silva\projetojogo\bin\Debug\net6.0\Vitor Silva.deps.json
+C:\Users\Vitor Silva\projetojogo\bin\Debug\net6.0\Vitor Silva.runtimeconfig.json
+C:\Users\Vitor Silva\projetojogo\bin\Debug\net6.0\Vitor Silva.dll
+C:\Users\Vitor Silva\projetojogo\bin\Debug\net6.0\Vitor Silva.pdb
+C:\Users\Vitor Silva\projetojogo\obj\Debug\net6.0\Vitor Silva.csproj.AssemblyReference.cache
+C:\Users\Vitor Silva\projetojogo\obj\Debug\net6.0\Vitor Silva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Silva\projetojogo\obj\Debug\net6.0\Vitor Silva.AssemblyInfoInputs.cache
+C:\Users\Vitor Silva\projetojogo\obj\Debug\net6.0\Vitor Silva.AssemblyInfo.cs
+C:\Users\Vitor Silva\projetojogo\obj\Debug\net6.0\Vitor Silva.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Silva\projetojogo\obj\Debug\net6.0\Vitor Silva.dll
+C:\Users\Vitor Silva\projetojogo\obj\Debug\net6.0\refint\Vitor Silva.dll
+C:\Users\Vitor Silva\projetojogo\obj\Debug\net6.0\Vitor Silva.pdb
+C:\Users\Vitor Silva\projetojogo\obj\Debug\net6.0\Vitor Silva.genruntimeconfig.cache
+C:\Users\Vitor Silva\projetojogo\obj\Debug\net6.0\ref\Vitor Silva.dll
