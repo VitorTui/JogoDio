@@ -1,13 +1,15 @@
 namespace Vitor_Silva.src.Entities
 {
-    public class Arus
+    public abstract class Hero
     {
-        public Arus(string Name, int Level, string HeroType)
-        {
+        public Hero(string Name, int Level, string HeroType){
             this.Name = Name;
             this.Level = Level;
             this.HeroType = HeroType;
         }
+
+        public Hero(){
+        }  
         public string Name;
         public int Level;
         public string HeroType;
@@ -17,7 +19,7 @@ namespace Vitor_Silva.src.Entities
 
         }
 
-        public string Attack(){
+        public virtual string Attack(){
             return this.Name + " Atacou com a sua espada";
         }
     }
