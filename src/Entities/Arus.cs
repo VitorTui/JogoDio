@@ -1,4 +1,4 @@
-namespace Entities
+namespace Vitor_Silva.src.Entities
 {
     public class Arus
     {
@@ -11,5 +11,14 @@ namespace Entities
         public string Name;
         public int Level;
         public string HeroType;
+
+        public override string ToString(){
+            return this.Name + " " + this.Level + " " + this.HeroType ;
+
+        }
+
+        public string Attack(){
+            return this.Name + " Atacou com a sua espada";
+        }
     }
 }
